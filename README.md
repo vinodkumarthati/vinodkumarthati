@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahathi Amarraju and I’m Fourth-year Information Technology student at Chaitanya Bharathi Institute of Technology, Hyderabad</p>
+<p align="left">My name is Thatipamula Vinod Kumar and I’m Fourth-year Information Technology student at Chaitanya Bharathi Institute of Technology, Hyderabad</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"># 👩‍💻 Hi, I'm Mahathi Amarraju  <br><br>✨ Creating bugs since 2022 when I started my B.Tech journey.  <br>📚 I'm currently learning **Full-Stack Development** and **Applied Machine Learning**.  <br>🎯 Goals: Build dynamic, user-friendly applications and publish impactful research in **AI/ML**.  <br>🎲 Fun fact: I play chess competitively ♟️, and when I’m not coding, I enjoy painting 🎨 and classical music 🎶.  <br><br>---</p>
+<p align="left"># 👩‍💻 Hi, I'm Thatipamula Vinod Kumar<br><br>✨ Creating bugs since 2022 when I started my B.Tech journey.  <br>📚 I'm currently learning **Full-Stack Development** and **Applied Machine Learning**.  <br>🎯 Goals: Build dynamic, user-friendly applications and publish impactful research in **AI/ML**.  <br>🎲 Fun fact: I play Football and Cricket , and when I’m not coding, I enjoy painting 🎨 and  music 🎶.  <br><br>---</p>
 
 ###
 
